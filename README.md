@@ -14,7 +14,7 @@ The final module consists of two main components to accomplish this:
 
 ### Final Project
 
-You will focus on a final project that reinforces the material covered in the course.  You can choose to work either in a solo project or in pairs to accomplish project requirements. If you choose to work in a pair, the pair will be assigned.
+You will focus on a final project that reinforces the material covered in the course.  You will be working on this project solo - this is a great chance for you to develop your learning. 
 
 #### Project requirements
 
@@ -23,7 +23,7 @@ In two weeks, you are tasked with building and Rails and React project that meet
 A. Back end requirements
 
 * Build API using rails
-* Two models per group member
+* Two models minimum 
 * Five non-controller ruby methods per group member
 * Five related non-controller tests per group member
 * Use of an external API with adapter pattern
@@ -31,7 +31,6 @@ A. Back end requirements
 B. Front End Requirements
 
 * Implementation of React Components
-* Authentication with React
 * One CRUD resource built per group member
 * Front end tests
 
