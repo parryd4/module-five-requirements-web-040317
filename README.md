@@ -16,6 +16,8 @@ The final module consists of two main components to accomplish this:
 
 You will focus on a final project that reinforces the material covered in the course.  You will be working on this project solo - this is a great chance for you to develop your learning. 
 
+For this project, you should choose a realsitic "skateboard" version that you can complete. Try to get something working quickly that you can iterate on. Your project should have minimal dependencies on outside libraries and gems. There may be some libraries that are appropriate to use, but try to make sure that your project has some code that you wrote. 
+
 #### Project requirements
 
 In two weeks, you are tasked with building and Rails and React project that meets the following project requirements:
